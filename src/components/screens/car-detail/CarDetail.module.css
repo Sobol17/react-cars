@@ -1,0 +1,12 @@
+.back {
+	color: #fff;
+	font-size: 18px;
+	text-decoration: none;
+	transition: color 0.3s ease;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.back:hover {
+	color: aqua;
+}
